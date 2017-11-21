@@ -1,2 +1,3 @@
 ---
-package_name: python-tk
+package_names:
+- python-tk
